@@ -1,0 +1,14 @@
+/Users/rudra/Desktop/ExamChe/sumofAelements/sumofAelements/bin/Debug/net8.0/sumofAelements
+/Users/rudra/Desktop/ExamChe/sumofAelements/sumofAelements/bin/Debug/net8.0/sumofAelements.deps.json
+/Users/rudra/Desktop/ExamChe/sumofAelements/sumofAelements/bin/Debug/net8.0/sumofAelements.runtimeconfig.json
+/Users/rudra/Desktop/ExamChe/sumofAelements/sumofAelements/bin/Debug/net8.0/sumofAelements.dll
+/Users/rudra/Desktop/ExamChe/sumofAelements/sumofAelements/bin/Debug/net8.0/sumofAelements.pdb
+/Users/rudra/Desktop/ExamChe/sumofAelements/sumofAelements/obj/Debug/net8.0/sumofAelements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudra/Desktop/ExamChe/sumofAelements/sumofAelements/obj/Debug/net8.0/sumofAelements.AssemblyInfoInputs.cache
+/Users/rudra/Desktop/ExamChe/sumofAelements/sumofAelements/obj/Debug/net8.0/sumofAelements.AssemblyInfo.cs
+/Users/rudra/Desktop/ExamChe/sumofAelements/sumofAelements/obj/Debug/net8.0/sumofAelements.csproj.CoreCompileInputs.cache
+/Users/rudra/Desktop/ExamChe/sumofAelements/sumofAelements/obj/Debug/net8.0/sumofAelements.dll
+/Users/rudra/Desktop/ExamChe/sumofAelements/sumofAelements/obj/Debug/net8.0/refint/sumofAelements.dll
+/Users/rudra/Desktop/ExamChe/sumofAelements/sumofAelements/obj/Debug/net8.0/sumofAelements.pdb
+/Users/rudra/Desktop/ExamChe/sumofAelements/sumofAelements/obj/Debug/net8.0/sumofAelements.genruntimeconfig.cache
+/Users/rudra/Desktop/ExamChe/sumofAelements/sumofAelements/obj/Debug/net8.0/ref/sumofAelements.dll

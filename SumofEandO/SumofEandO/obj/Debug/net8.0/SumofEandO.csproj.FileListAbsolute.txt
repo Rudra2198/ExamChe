@@ -1,0 +1,14 @@
+/Users/rudra/Desktop/ExamChe/SumofEandO/SumofEandO/bin/Debug/net8.0/SumofEandO
+/Users/rudra/Desktop/ExamChe/SumofEandO/SumofEandO/bin/Debug/net8.0/SumofEandO.deps.json
+/Users/rudra/Desktop/ExamChe/SumofEandO/SumofEandO/bin/Debug/net8.0/SumofEandO.runtimeconfig.json
+/Users/rudra/Desktop/ExamChe/SumofEandO/SumofEandO/bin/Debug/net8.0/SumofEandO.dll
+/Users/rudra/Desktop/ExamChe/SumofEandO/SumofEandO/bin/Debug/net8.0/SumofEandO.pdb
+/Users/rudra/Desktop/ExamChe/SumofEandO/SumofEandO/obj/Debug/net8.0/SumofEandO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudra/Desktop/ExamChe/SumofEandO/SumofEandO/obj/Debug/net8.0/SumofEandO.AssemblyInfoInputs.cache
+/Users/rudra/Desktop/ExamChe/SumofEandO/SumofEandO/obj/Debug/net8.0/SumofEandO.AssemblyInfo.cs
+/Users/rudra/Desktop/ExamChe/SumofEandO/SumofEandO/obj/Debug/net8.0/SumofEandO.csproj.CoreCompileInputs.cache
+/Users/rudra/Desktop/ExamChe/SumofEandO/SumofEandO/obj/Debug/net8.0/SumofEandO.dll
+/Users/rudra/Desktop/ExamChe/SumofEandO/SumofEandO/obj/Debug/net8.0/refint/SumofEandO.dll
+/Users/rudra/Desktop/ExamChe/SumofEandO/SumofEandO/obj/Debug/net8.0/SumofEandO.pdb
+/Users/rudra/Desktop/ExamChe/SumofEandO/SumofEandO/obj/Debug/net8.0/SumofEandO.genruntimeconfig.cache
+/Users/rudra/Desktop/ExamChe/SumofEandO/SumofEandO/obj/Debug/net8.0/ref/SumofEandO.dll

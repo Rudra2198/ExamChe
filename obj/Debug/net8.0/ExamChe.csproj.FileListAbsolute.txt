@@ -1,0 +1,14 @@
+/Users/rudra/Desktop/ExamChe/bin/Debug/net8.0/ExamChe
+/Users/rudra/Desktop/ExamChe/bin/Debug/net8.0/ExamChe.deps.json
+/Users/rudra/Desktop/ExamChe/bin/Debug/net8.0/ExamChe.runtimeconfig.json
+/Users/rudra/Desktop/ExamChe/bin/Debug/net8.0/ExamChe.dll
+/Users/rudra/Desktop/ExamChe/bin/Debug/net8.0/ExamChe.pdb
+/Users/rudra/Desktop/ExamChe/obj/Debug/net8.0/ExamChe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudra/Desktop/ExamChe/obj/Debug/net8.0/ExamChe.AssemblyInfoInputs.cache
+/Users/rudra/Desktop/ExamChe/obj/Debug/net8.0/ExamChe.AssemblyInfo.cs
+/Users/rudra/Desktop/ExamChe/obj/Debug/net8.0/ExamChe.csproj.CoreCompileInputs.cache
+/Users/rudra/Desktop/ExamChe/obj/Debug/net8.0/ExamChe.dll
+/Users/rudra/Desktop/ExamChe/obj/Debug/net8.0/refint/ExamChe.dll
+/Users/rudra/Desktop/ExamChe/obj/Debug/net8.0/ExamChe.pdb
+/Users/rudra/Desktop/ExamChe/obj/Debug/net8.0/ExamChe.genruntimeconfig.cache
+/Users/rudra/Desktop/ExamChe/obj/Debug/net8.0/ref/ExamChe.dll

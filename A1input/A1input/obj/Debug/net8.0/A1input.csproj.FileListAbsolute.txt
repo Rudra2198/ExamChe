@@ -1,0 +1,14 @@
+/Users/rudra/Desktop/ExamChe/A1input/A1input/bin/Debug/net8.0/A1input
+/Users/rudra/Desktop/ExamChe/A1input/A1input/bin/Debug/net8.0/A1input.deps.json
+/Users/rudra/Desktop/ExamChe/A1input/A1input/bin/Debug/net8.0/A1input.runtimeconfig.json
+/Users/rudra/Desktop/ExamChe/A1input/A1input/bin/Debug/net8.0/A1input.dll
+/Users/rudra/Desktop/ExamChe/A1input/A1input/bin/Debug/net8.0/A1input.pdb
+/Users/rudra/Desktop/ExamChe/A1input/A1input/obj/Debug/net8.0/A1input.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudra/Desktop/ExamChe/A1input/A1input/obj/Debug/net8.0/A1input.AssemblyInfoInputs.cache
+/Users/rudra/Desktop/ExamChe/A1input/A1input/obj/Debug/net8.0/A1input.AssemblyInfo.cs
+/Users/rudra/Desktop/ExamChe/A1input/A1input/obj/Debug/net8.0/A1input.csproj.CoreCompileInputs.cache
+/Users/rudra/Desktop/ExamChe/A1input/A1input/obj/Debug/net8.0/A1input.dll
+/Users/rudra/Desktop/ExamChe/A1input/A1input/obj/Debug/net8.0/refint/A1input.dll
+/Users/rudra/Desktop/ExamChe/A1input/A1input/obj/Debug/net8.0/A1input.pdb
+/Users/rudra/Desktop/ExamChe/A1input/A1input/obj/Debug/net8.0/A1input.genruntimeconfig.cache
+/Users/rudra/Desktop/ExamChe/A1input/A1input/obj/Debug/net8.0/ref/A1input.dll

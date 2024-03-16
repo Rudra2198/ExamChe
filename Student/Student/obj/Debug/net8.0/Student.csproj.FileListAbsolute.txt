@@ -1,0 +1,14 @@
+/Users/rudra/Desktop/ExamChe/Student/Student/bin/Debug/net8.0/Student
+/Users/rudra/Desktop/ExamChe/Student/Student/bin/Debug/net8.0/Student.deps.json
+/Users/rudra/Desktop/ExamChe/Student/Student/bin/Debug/net8.0/Student.runtimeconfig.json
+/Users/rudra/Desktop/ExamChe/Student/Student/bin/Debug/net8.0/Student.dll
+/Users/rudra/Desktop/ExamChe/Student/Student/bin/Debug/net8.0/Student.pdb
+/Users/rudra/Desktop/ExamChe/Student/Student/obj/Debug/net8.0/Student.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudra/Desktop/ExamChe/Student/Student/obj/Debug/net8.0/Student.AssemblyInfoInputs.cache
+/Users/rudra/Desktop/ExamChe/Student/Student/obj/Debug/net8.0/Student.AssemblyInfo.cs
+/Users/rudra/Desktop/ExamChe/Student/Student/obj/Debug/net8.0/Student.csproj.CoreCompileInputs.cache
+/Users/rudra/Desktop/ExamChe/Student/Student/obj/Debug/net8.0/Student.dll
+/Users/rudra/Desktop/ExamChe/Student/Student/obj/Debug/net8.0/refint/Student.dll
+/Users/rudra/Desktop/ExamChe/Student/Student/obj/Debug/net8.0/Student.pdb
+/Users/rudra/Desktop/ExamChe/Student/Student/obj/Debug/net8.0/Student.genruntimeconfig.cache
+/Users/rudra/Desktop/ExamChe/Student/Student/obj/Debug/net8.0/ref/Student.dll

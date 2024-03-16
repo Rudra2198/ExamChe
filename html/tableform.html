@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form within Table</title>
+    <style>
+      table {
+        width: 50%;
+        border-collapse: collapse;
+        border: 2px solid black; /* Add solid black border */
+      }
+      th,
+      td {
+        padding: 8px;
+        border-bottom: 1px solid #ddd;
+        border-right: 1px solid #ddd; /* Add border to the right */
+      }
+      th:last-child,
+      td:last-child {
+        border-right: none; /* Remove border from the last column */
+      }
+      th {
+        text-align: left;
+      }
+      input[type="text"],
+      input[type="date"],
+      textarea,
+      select {
+        width: calc(100% - 12px); /* Subtract padding from width */
+        padding: 6px;
+        box-sizing: border-box;
+      }
+    </style>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <th>Label</th>
+        <th>Input</th>
+      </tr>
+      <tr>
+        <td>Name:</td>
+        <td><input type="text" name="name" /></td>
+      </tr>
+      <tr>
+        <td>Birthdate:</td>
+        <td><input type="date" name="birthdate" /></td>
+      </tr>
+      <tr>
+        <td>Gender:</td>
+        <td>
+          <select name="gender">
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+          </select>
+          <br />
+          <input type="radio" id="male" name="gender" value="male" />
+          <label for="male">Male</label>
+          <input type="radio" id="female" name="gender" value="female" />
+          <label for="female">Female</label>
+        </td>
+      </tr>
+      <tr>
+        <td>Address:</td>
+        <td><textarea name="address" rows="4"></textarea></td>
+      </tr>
+      <tr>
+        <td>Receive Updates:</td>
+        <td><input type="checkbox" name="updates" /></td>
+      </tr>
+    </table>
+  </body>
+</html>

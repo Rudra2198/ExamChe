@@ -1,0 +1,14 @@
+/Users/rudra/Desktop/ExamChe/pattern2/pattern2/bin/Debug/net8.0/pattern2
+/Users/rudra/Desktop/ExamChe/pattern2/pattern2/bin/Debug/net8.0/pattern2.deps.json
+/Users/rudra/Desktop/ExamChe/pattern2/pattern2/bin/Debug/net8.0/pattern2.runtimeconfig.json
+/Users/rudra/Desktop/ExamChe/pattern2/pattern2/bin/Debug/net8.0/pattern2.dll
+/Users/rudra/Desktop/ExamChe/pattern2/pattern2/bin/Debug/net8.0/pattern2.pdb
+/Users/rudra/Desktop/ExamChe/pattern2/pattern2/obj/Debug/net8.0/pattern2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudra/Desktop/ExamChe/pattern2/pattern2/obj/Debug/net8.0/pattern2.AssemblyInfoInputs.cache
+/Users/rudra/Desktop/ExamChe/pattern2/pattern2/obj/Debug/net8.0/pattern2.AssemblyInfo.cs
+/Users/rudra/Desktop/ExamChe/pattern2/pattern2/obj/Debug/net8.0/pattern2.csproj.CoreCompileInputs.cache
+/Users/rudra/Desktop/ExamChe/pattern2/pattern2/obj/Debug/net8.0/pattern2.dll
+/Users/rudra/Desktop/ExamChe/pattern2/pattern2/obj/Debug/net8.0/refint/pattern2.dll
+/Users/rudra/Desktop/ExamChe/pattern2/pattern2/obj/Debug/net8.0/pattern2.pdb
+/Users/rudra/Desktop/ExamChe/pattern2/pattern2/obj/Debug/net8.0/pattern2.genruntimeconfig.cache
+/Users/rudra/Desktop/ExamChe/pattern2/pattern2/obj/Debug/net8.0/ref/pattern2.dll

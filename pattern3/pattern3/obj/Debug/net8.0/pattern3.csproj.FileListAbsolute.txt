@@ -1,0 +1,14 @@
+/Users/rudra/Desktop/ExamChe/pattern3/pattern3/bin/Debug/net8.0/pattern3
+/Users/rudra/Desktop/ExamChe/pattern3/pattern3/bin/Debug/net8.0/pattern3.deps.json
+/Users/rudra/Desktop/ExamChe/pattern3/pattern3/bin/Debug/net8.0/pattern3.runtimeconfig.json
+/Users/rudra/Desktop/ExamChe/pattern3/pattern3/bin/Debug/net8.0/pattern3.dll
+/Users/rudra/Desktop/ExamChe/pattern3/pattern3/bin/Debug/net8.0/pattern3.pdb
+/Users/rudra/Desktop/ExamChe/pattern3/pattern3/obj/Debug/net8.0/pattern3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudra/Desktop/ExamChe/pattern3/pattern3/obj/Debug/net8.0/pattern3.AssemblyInfoInputs.cache
+/Users/rudra/Desktop/ExamChe/pattern3/pattern3/obj/Debug/net8.0/pattern3.AssemblyInfo.cs
+/Users/rudra/Desktop/ExamChe/pattern3/pattern3/obj/Debug/net8.0/pattern3.csproj.CoreCompileInputs.cache
+/Users/rudra/Desktop/ExamChe/pattern3/pattern3/obj/Debug/net8.0/pattern3.dll
+/Users/rudra/Desktop/ExamChe/pattern3/pattern3/obj/Debug/net8.0/refint/pattern3.dll
+/Users/rudra/Desktop/ExamChe/pattern3/pattern3/obj/Debug/net8.0/pattern3.pdb
+/Users/rudra/Desktop/ExamChe/pattern3/pattern3/obj/Debug/net8.0/pattern3.genruntimeconfig.cache
+/Users/rudra/Desktop/ExamChe/pattern3/pattern3/obj/Debug/net8.0/ref/pattern3.dll
