@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{61229AD5-EF0D-4F30-8D1A-7E685E9F6914}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExtPracTwo/Program.cs">
+    <Files>
+      <File FileName="ExtPracTwo/Program.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExtPracTwo" expanded="True">
+            <Node name="ExtPracTwo">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExtPracTwo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

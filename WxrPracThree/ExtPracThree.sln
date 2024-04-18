@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtPracThree", "WxrPracThree\ExtPracThree.csproj", "{38515A99-E70E-462F-ADE3-A191DA5E2146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38515A99-E70E-462F-ADE3-A191DA5E2146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38515A99-E70E-462F-ADE3-A191DA5E2146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38515A99-E70E-462F-ADE3-A191DA5E2146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38515A99-E70E-462F-ADE3-A191DA5E2146}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {890B91E7-D19E-4D7C-9D29-796061028F51}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{38515A99-E70E-462F-ADE3-A191DA5E2146}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WxrPracThree/Program.cs">
+    <Files>
+      <File FileName="WxrPracThree/Program.cs" Line="68" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ExtPracThree PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

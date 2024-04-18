@@ -1,0 +1,15 @@
+/Users/rudra/Desktop/ExamChe/ExtPracTwo/ExtPracTwo/bin/Debug/net7.0/ExtPracTwo
+/Users/rudra/Desktop/ExamChe/ExtPracTwo/ExtPracTwo/bin/Debug/net7.0/ExtPracTwo.deps.json
+/Users/rudra/Desktop/ExamChe/ExtPracTwo/ExtPracTwo/bin/Debug/net7.0/ExtPracTwo.runtimeconfig.json
+/Users/rudra/Desktop/ExamChe/ExtPracTwo/ExtPracTwo/bin/Debug/net7.0/ExtPracTwo.dll
+/Users/rudra/Desktop/ExamChe/ExtPracTwo/ExtPracTwo/bin/Debug/net7.0/ExtPracTwo.pdb
+/Users/rudra/Desktop/ExamChe/ExtPracTwo/ExtPracTwo/obj/Debug/net7.0/ExtPracTwo.csproj.AssemblyReference.cache
+/Users/rudra/Desktop/ExamChe/ExtPracTwo/ExtPracTwo/obj/Debug/net7.0/ExtPracTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudra/Desktop/ExamChe/ExtPracTwo/ExtPracTwo/obj/Debug/net7.0/ExtPracTwo.AssemblyInfoInputs.cache
+/Users/rudra/Desktop/ExamChe/ExtPracTwo/ExtPracTwo/obj/Debug/net7.0/ExtPracTwo.AssemblyInfo.cs
+/Users/rudra/Desktop/ExamChe/ExtPracTwo/ExtPracTwo/obj/Debug/net7.0/ExtPracTwo.csproj.CoreCompileInputs.cache
+/Users/rudra/Desktop/ExamChe/ExtPracTwo/ExtPracTwo/obj/Debug/net7.0/ExtPracTwo.dll
+/Users/rudra/Desktop/ExamChe/ExtPracTwo/ExtPracTwo/obj/Debug/net7.0/refint/ExtPracTwo.dll
+/Users/rudra/Desktop/ExamChe/ExtPracTwo/ExtPracTwo/obj/Debug/net7.0/ExtPracTwo.pdb
+/Users/rudra/Desktop/ExamChe/ExtPracTwo/ExtPracTwo/obj/Debug/net7.0/ExtPracTwo.genruntimeconfig.cache
+/Users/rudra/Desktop/ExamChe/ExtPracTwo/ExtPracTwo/obj/Debug/net7.0/ref/ExtPracTwo.dll

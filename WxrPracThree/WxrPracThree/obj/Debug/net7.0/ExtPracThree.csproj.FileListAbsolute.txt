@@ -1,0 +1,15 @@
+/Users/rudra/Desktop/ExamChe/WxrPracThree/WxrPracThree/bin/Debug/net7.0/ExtPracThree
+/Users/rudra/Desktop/ExamChe/WxrPracThree/WxrPracThree/bin/Debug/net7.0/ExtPracThree.deps.json
+/Users/rudra/Desktop/ExamChe/WxrPracThree/WxrPracThree/bin/Debug/net7.0/ExtPracThree.runtimeconfig.json
+/Users/rudra/Desktop/ExamChe/WxrPracThree/WxrPracThree/bin/Debug/net7.0/ExtPracThree.dll
+/Users/rudra/Desktop/ExamChe/WxrPracThree/WxrPracThree/bin/Debug/net7.0/ExtPracThree.pdb
+/Users/rudra/Desktop/ExamChe/WxrPracThree/WxrPracThree/obj/Debug/net7.0/ExtPracThree.csproj.AssemblyReference.cache
+/Users/rudra/Desktop/ExamChe/WxrPracThree/WxrPracThree/obj/Debug/net7.0/ExtPracThree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudra/Desktop/ExamChe/WxrPracThree/WxrPracThree/obj/Debug/net7.0/ExtPracThree.AssemblyInfoInputs.cache
+/Users/rudra/Desktop/ExamChe/WxrPracThree/WxrPracThree/obj/Debug/net7.0/ExtPracThree.AssemblyInfo.cs
+/Users/rudra/Desktop/ExamChe/WxrPracThree/WxrPracThree/obj/Debug/net7.0/ExtPracThree.csproj.CoreCompileInputs.cache
+/Users/rudra/Desktop/ExamChe/WxrPracThree/WxrPracThree/obj/Debug/net7.0/ExtPracThree.dll
+/Users/rudra/Desktop/ExamChe/WxrPracThree/WxrPracThree/obj/Debug/net7.0/refint/ExtPracThree.dll
+/Users/rudra/Desktop/ExamChe/WxrPracThree/WxrPracThree/obj/Debug/net7.0/ExtPracThree.pdb
+/Users/rudra/Desktop/ExamChe/WxrPracThree/WxrPracThree/obj/Debug/net7.0/ExtPracThree.genruntimeconfig.cache
+/Users/rudra/Desktop/ExamChe/WxrPracThree/WxrPracThree/obj/Debug/net7.0/ref/ExtPracThree.dll
