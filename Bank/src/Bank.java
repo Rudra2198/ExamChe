@@ -28,7 +28,7 @@ class Bank{
         System.out.println("-----------------------------------------------------------");
         System.out.println(" Current Bank Balance :                         " + balance);
 
-    }
+    
 
     public static void main(String[] args){
 
